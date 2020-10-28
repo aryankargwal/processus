@@ -7,6 +7,10 @@ Often one finds himself overwhelmed by the huge array of data manipulation and p
 - [ ] Images
 - [ ] NLP
 - [ ] Audio
+### Tabular Data
+#### Types
+- [ ] CSV
+- [ ] JSON
 ## Author
 [Aryan Kargwal](https://github.com/aryankargwal)
 
