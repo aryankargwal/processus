@@ -8,9 +8,16 @@ Often one finds himself overwhelmed by the huge array of data manipulation and p
 - [ ] NLP
 - [ ] Audio
 ### Tabular Data
-#### Types
-- [ ] CSV
-- [ ] JSON
+#### Features
+***
+### Images
+#### Features
+***
+### NLP
+#### Features
+***
+### Audio
+#### Features
 ## Author
 [Aryan Kargwal](https://github.com/aryankargwal)
 
